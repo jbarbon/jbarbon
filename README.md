@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm João. I develop Data Science projects focusing on machine learning and deep learning!
+
+## Deep Learning Projects
+- [Simple Cat Analyser](https://github.com/jbarbon/SimpleCatAnalyser)
 
 <!--
 **jbarbon/jbarbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
