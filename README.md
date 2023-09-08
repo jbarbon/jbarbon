@@ -1,6 +1,6 @@
-### Hi, I'm João. I develop Data Science projects focusing on machine learning and deep learning!
+### Hi, I'm João. I am currently a PhD student at UNICAMP working on deep learning architectures applyed to EEG signal analysis.
 
-## Deep Learning Projects
+## Some Deep Learning Projects
 - [Simple Cat Analyser](https://github.com/jbarbon/SimpleCatAnalyser)
 - [L-layer Cat Analyser](https://github.com/jbarbon/L-layer-cat-analyser)
 <!--
