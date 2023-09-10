@@ -1,4 +1,4 @@
-### Hi, I'm João. I am currently a PhD student at UNICAMP, working on deep learning architectures applyed to EEG signal analysis.
+### Hi, I'm João. I am currently a PhD student at UNICAMP, working on deep learning architectures applied to EEG signal analysis.
 
 ## Some Deep Learning Projects
 - [Simple Cat Analyser](https://github.com/jbarbon/SimpleCatAnalyser)
